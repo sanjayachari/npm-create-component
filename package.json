@@ -1,0 +1,21 @@
+{
+  "name": "npm-create-component",
+  "version": "1.0.0",
+  "main": "index.js",
+  "bin": {
+    "create-component": "index.js",
+    "create-comp": "index.js",
+    "c-c": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Sanjay Achari",
+  "license": "MIT",
+  "description": "A CLI tool to generate React components",
+  "dependencies": {
+    "fs-extra": "^11.3.0",
+    "inquirer": "^12.5.0"
+  }
+}
