@@ -1,6 +1,6 @@
 {
   "name": "npm-create-component",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "bin": {
     "create-component": "index.js",
@@ -10,12 +10,54 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+    "react",
+    "cli",
+    "component",
+    "react-component",
+    "component-generator",
+    "create-component",
+    "create-react-component",
+    "react-cli",
+    "component-cli",
+    "jsx",
+    "tsx",
+    "frontend",
+    "javascript",
+    "typescript",
+    "npm",
+    "boilerplate",
+    "generator",
+    "create-react-component-cli",
+    "react-component-boilerplate",
+    "create-react-component-tool",
+    "react-component-template",
+    "react-component-creator",
+    "component-scaffolding",
+    "react-component-cli-tool",
+    "reactjs",
+    "react-typescript",
+    "node-cli",
+    "cli-tool",
+    "code-generator",
+    "react-component-setup"
+  ],
   "author": "Sanjay Achari",
   "license": "MIT",
-  "description": "A CLI tool to generate React components",
+  "description": "A powerful CLI tool to generate React component files with CSS templates. Supports both JSX and TSX formats. Simplifies component creation for modern React projects.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sanjayachari/npm-create-component.git"
+  },
+  "homepage": "https://github.com/sanjayachari/npm-create-component#readme",
+  "bugs": {
+    "url": "https://github.com/sanjayachari/npm-create-component/issues"
+  },
   "dependencies": {
     "fs-extra": "^11.3.0",
     "inquirer": "^12.5.0"
+  },
+  "engines": {
+    "node": ">=14.0.0"
   }
 }
