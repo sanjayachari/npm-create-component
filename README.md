@@ -28,8 +28,8 @@ npx c-c components/About.jsx
 
 --- OR ---
 
-npx create-component create-component components/Home.jsx
+npx create-component components/Home.jsx
 
 --- OR ---
 
-npx create-comp create-comp components/Home.tsx
+npx create-comp components/Home.tsx
