@@ -25,5 +25,11 @@ npm install -g npm-create-component
 You can use it directly with npx without installing globally:
 
 npx c-c components/About.jsx
+
+--- OR ---
+
 npx create-component create-component components/Home.jsx
+
+--- OR ---
+
 npx create-comp create-comp components/Home.tsx
