@@ -21,3 +21,9 @@ A CLI tool to quickly generate React component files with associated CSS, suppor
 To install the package globally, run:
 ```bash
 npm install -g npm-create-component
+
+You can use it directly with npx without installing globally:
+
+npx c-c components/About.jsx
+npx create-component create-component components/Home.jsx
+npx create-comp create-comp components/Home.tsx
