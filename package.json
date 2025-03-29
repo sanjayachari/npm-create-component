@@ -47,7 +47,7 @@
   "description": "A powerful CLI tool to generate React component files with CSS templates. Supports both JSX and TSX formats. Simplifies component creation for modern React projects.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sanjayachari/npm-create-component.git"
+    "url": "https://github.com/sanjayachari/npm-create-component"
   },
   "homepage": "https://github.com/sanjayachari/npm-create-component#readme",
   "bugs": {
